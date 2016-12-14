@@ -1,7 +1,6 @@
 # Multi CardServer R63 E0 
 
-Multics is cardserver proxy to share your subscription card at home
-It's based on [box/spout](https://github.com/box/spout).
+Multics is cardserver proxy.
 
 Author: [Evileyes]
 
@@ -12,6 +11,7 @@ Modified by [Messi89](https://github.com/messi89) to :
 - Freeze on full cws change fixed (tags 80/81)
 - Autoreferesh on Home tab
 
+## Menu 
 [Compilation](#compilation)  
 [How to](#how-to)  
 [Tested on](#tested-on)  
