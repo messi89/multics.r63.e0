@@ -15,7 +15,8 @@ Modified by [Messi89](https://github.com/messi89) to :
 [Compilation](#compilation)  
 [How to](#how-to)  
 [Tested on](#tested-on)  
-[Different formats](#different-formats)  
+[Todo](#todo)  
+[Thanks to](#thanks-to)  
 
 ## Compilation 
 use the shell script
@@ -39,8 +40,9 @@ Start multics : /var/multics/multics.e0 -b or /var/multics/multics.e0 -b -C /con
 
 ## Todo
 
-Cache compatibility
-CSS style support
+- Cache compatibility
+- CSS style support
+- Fix HTTP bug
 
 
 ## Thanks to
