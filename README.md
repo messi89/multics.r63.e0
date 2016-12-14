@@ -47,4 +47,4 @@ Start multics : /var/multics/multics.e0 -b or /var/multics/multics.e0 -b -C /con
 
 ## Thanks to
 
-Evileyes, Constance, Pat
+Evileyes, Constance, Pat, [janderklander77](https://github.com/janderklander77)
