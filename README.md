@@ -2,7 +2,7 @@
 
 Multics is cardserver proxy.
 
-Author: [Evileyes]
+Author: [Evileyes] (http://www.infosat.org)
 
 Modified by [Messi89](https://github.com/messi89) to :
 
@@ -47,4 +47,4 @@ Start multics : /var/multics/multics.e0 -b or /var/multics/multics.e0 -b -C /con
 
 ## Thanks to
 
-Evileyes, Constance, Pat, [janderklander77](https://github.com/janderklander77)
+[Evileyes] (http://www.infosat.org), [Constance](http://satland.org) , Pat, [Janderklander77](https://github.com/janderklander77)
